@@ -24,3 +24,8 @@ Install dependencies before running the notebook:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Example Chart
+![BTC Heatmap Example]
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/9a6acb7e-59a4-4d88-84ae-2a1f6991a631" />
